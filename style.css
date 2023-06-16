@@ -1,0 +1,9 @@
+.liste {
+    text-align: center;
+    list-style-position:inside;
+    padding-left: 0;
+  }
+  .liste{
+    text-align: left; /* Metin sola hizalanacak */
+    padding-left: 500px; /* İstenilen iç boşluk miktarı */
+  }
